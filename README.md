@@ -1,2 +1,2 @@
 # monet_or_manet
-cnn to tell the difference between monet and manet paintings
+cnn to tell the difference between paintings by monet and manet (and photos of Senagalese footballer sadio mane)
